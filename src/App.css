@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+nav{
+  background-color: aqua;
+  color: #fff;
+  padding: 10px;
+}
+nav a{
+  padding: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.active{
+  color: blue;
+}
+.routes {
+  padding: 20px;
+}
